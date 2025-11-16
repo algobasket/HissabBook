@@ -12,6 +12,21 @@ It helps businesses track expenses, maintain ledgers, manage entries, and access
 
 ---
 
+## 🛠️ Technology Stack Used 
+
+- **Frontend:** React NEXTjs 
+- **Backend:** Node.js Fastify Framework 
+- **Database:** PostGreSQL powered by Serverless Neon.com  
+- **Hosting:** Deployment via Docker Cloud Servers  
+
+- Frontend Web App - https://github.com/algobasket/hissabbook-react
+- Backend Frontend - https://github.com/algobasket/hissabBook-react-admin
+
+- Frontend API System - https://github.com/algobasket/hissabbook-api-system
+- Backend API System  - https://github.com/algobasket/hissabbook-nodejs-backend
+
+---  
+
 ## ⭐ Key Features
 
 ### 📘 Advanced Ledger Management
@@ -70,16 +85,6 @@ If your business manages money — HissabBook makes it easier.
 
 ---
 
-## 🛠️ Technology Stack Used 
-
-- **Frontend:** React NEXTjs 
-- **Backend:** Node.js Fastify Framework 
-- **Database:** PostGreSQL powered by Serverless Neon.com  
-- **Hosting:** Deployment via Docker Cloud Servers  
-
-*(Tell me your exact stack, and I will update this section.)*
-
---- 
 
 ## Made with 🩷 by Algobasket  
 
